@@ -1,9 +1,10 @@
-package icehs.science.chapter03;
+package dreamschool.cscourse.chapter03;
 
 public class ParseIntHelpEx {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		
 
 	}
 
